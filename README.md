@@ -5,7 +5,7 @@ Hi ! I'm Marcos , front-end developer, and last year discovered that programming
 
 
 
-🖥 I'm currently doing a Front-End Bootcamp at Barcelona Activa,focused in **React**
+🖥 I succesfully finished a 400h Front-End Bootcamp at Barcelona Activa,focused in **React**
 ```
 https://www.barcelonactiva.cat/es/itacademy
 ```
