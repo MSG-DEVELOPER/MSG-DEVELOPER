@@ -1,29 +1,74 @@
 # 💫 About Me:
 Hi ! I'm Marcos , front-end developer, and last year discovered that programming is my **IKIGAY.**
-> More info about IKIGAI here https://management30.com/blog/japanese-ikigai/<br><br> 
+> More info about IKIGAI here https://management30.com/blog/japanese-ikigai/
+>
+## 🎓 Education & Certifications
+#### 🏅 Professional Certifications
+---
+
+   ➡ **[Full Stack Web Development 2024 – University of Helsinki (Full Stack Open)](https://fullstackopen.com/en/)**  
+  *In progress – 6–24 ECTS credits*  
+  Modern web development with React, Node.js, TypeScript, testing, GraphQL, CI/CD and more.
+ 
+> Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,docker,graphql,vite,vercel,linux,git,github" />
+</p>
 
 
+---
 
+✔ **[Front-End Bootcamp – Barcelona Activa / IT Academy](https://www.barcelonactiva.cat/es/itacademy)**  
+*Completed – 500h*  
+React-focused bootcamp with real-world projects and agile methodology.
 
-🖥 I succesfully finished a 400h Front-End Bootcamp at Barcelona Activa,focused in **React**
-```
-https://www.barcelonactiva.cat/es/itacademy
-```
-<br>
+> Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,styledcomponents,redux,jest,vercel,vite,figma,firebase,git,github," />
+</p>
 
-🖥 I also completed the IFCD0110, a 600-hour course in web development.
+---
+✔ **[Web Development Certificate IFCD0110 – SEPE](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?codEspecialidad=IFCD0110)**  
+*Completed – 600h + internship*  
+fundamentals: HTML, CSS, JavaScript,CMS, SEO/SEM and version control.
 
-```
-https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidad.do?codEspecialidad=IFCD0110
-```
+>Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
+</p>
 
-<br>
-🖥 Previously, I was a student at the demanding Barcelona 42 campus.
+---
+ ✔ **[Piscine Graduate – 42 Barcelona](https://www.42barcelona.com/es/)**  
+*Completed entry phase - 150h*  
+Immersive programming experience focused on low-level languages, algorithms, and peer-to-peer learning.
+ 
+>Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,bash,vim" />
+</p>
 
-```
-https://www.42barcelona.com/es/
-```
-<br><br>
+---
+
+✔ **[Object-Oriented Programming with Java  – CFGS DAW , IOC](https://www.42barcelona.com/es/)**  
+*Completed - 165h*  
+omprehensive course focused on object-oriented programming principles using Java. Covered encapsulation, inheritance, polymorphism, and class design. All projects were developed using NetBeans.
+
+>Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+---
+#### 📚 Short Courses & Workshops
+---
+
+- **Python for Data Science – Udemy**, 10h  
+- **Fundamentals of Artificial Intelligence – IBM SkillsBuild**, 7h  
+- **Fundamentals of Cybersecurity – IBM SkillsBuild**, 7h
+- **TypeScript for React – IT Academy (Workshop)**, 6h  
+
+---
+
 ⏳ *In the future, I want to become the best React developer in Spain (not sure if there's an official ranking though*  😂).
 
 
@@ -32,8 +77,20 @@ https://www.42barcelona.com/es/
 <br>
 Take a look of my growing AI-generated channel. All the videos are fully made with ***generative AI.***
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 💻 Main Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+> **React Libraries:**  
+> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+> ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react) 
+> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+> ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+> ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF5C39.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSG-DEVELOPER&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MSG-DEVELOPER&theme=cobalt&hide_border=true)<br/>
@@ -51,3 +108,4 @@ Take a look of my growing AI-generated channel. All the videos are fully made wi
 🙏 **Thanks for reading the README all the way to the end.**  
 I’d love to schedule a meeting to take a technical test — even if you think I might not pass it.  
 For me, it would be a great opportunity to grow, prove myself, and meet passionate people in the industry.
+
