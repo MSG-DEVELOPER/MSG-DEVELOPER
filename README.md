@@ -1,14 +1,58 @@
-# 💫 About Me:
-Hi ! I'm Marcos , front-end developer, and last year discovered that programming is my **IKIGAY.**
+# 👨‍💻 Something about Me
+Hi ! I'm Marcos , front-end developer, and last year discovered that programming is my **IKIGAY.** — the reason that gets me up in the morning.
 > More info about IKIGAI here https://management30.com/blog/japanese-ikigai/
->
-## 🎓 Education & Certifications
-#### 🏅 Professional Certifications
+
+* Over **2,000** hours of training focused on front‑end technologies.  
+* Creator of a JavaScript library  ([`lazy-fetch`](https://lazy-fetch.vercel.app/)) and an AI-powered YouTube channel.  
+* Passionate about React and eager to dive deeper into **DevOps**, **AI**, and **low-level languages**.  
+* My goal? To become one of the most solid **React** developers in Spain.
+
+---
+### 💻 Prefered Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+> **React Libraries:**  
+> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+> ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react) 
+> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+> ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+> ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF5C39.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+
+---
+### 💬 Soft Skills & Languages
+
+- 🧠 Resilient, proactive, and curious learner  
+- 🤝 Strong communication and teamwork mindset  
+- 🔁 Comfortable with agile, remote work, and iteration  
+- 🇪🇸 Native Spanish and Catalan
+- 🇬🇧 English – B2 (reading/writing), B1 (speaking/listening) (EOI)
+
 ---
 
-   ➡ **[Full Stack Web Development 2024 – University of Helsinki (Full Stack Open)](https://fullstackopen.com/en/)**  
+### 📬 Contact
+
+Feel free to reach out:
+
+📧 **msgdevelopermsg@gmail.com**  
+🌐 [yourportfolio.dev](https://yourportfolio.dev)
+
+_(You'll find this contact info again at the bottom 😉)_
+
+---
+
+
+# 🎓 Education & Certifications
+### 🏅 Professional Certifications
+---
+
+   ✍ **[Full Stack Open  – University of Helsinki / Open University](https://fullstackopen.com/en/)**  
   *In progress – 6–24 ECTS credits*  
-  Modern web development with React, Node.js, TypeScript, testing, GraphQL, CI/CD and more.
+  Online course from University of Helsinki that teaches modern web development with React, Node.js, TypeScript, testing, GraphQL, CI/CD and more.
  
 > Technologies
 <p align="left">
@@ -20,7 +64,7 @@ Hi ! I'm Marcos , front-end developer, and last year discovered that programming
 
 ✔ **[Front-End Bootcamp – Barcelona Activa / IT Academy](https://www.barcelonactiva.cat/es/itacademy)**  
 *Completed – 500h*  
-React-focused bootcamp with real-world projects and agile methodology.
+**React-focused bootcamp** with real-world projects and agile methodology.
 
 > Technologies
 <p align="left">
@@ -41,7 +85,7 @@ fundamentals: HTML, CSS, JavaScript,CMS, SEO/SEM and version control.
  ✔ **[Piscine Graduate – 42 Barcelona](https://www.42barcelona.com/es/)**  
 *Completed entry phase - 150h*  
 Immersive programming experience focused on low-level languages, algorithms, and peer-to-peer learning.
- 
+
 >Technologies
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,bash,vim" />
@@ -51,7 +95,7 @@ Immersive programming experience focused on low-level languages, algorithms, and
 
 ✔ **[Object-Oriented Programming with Java  – CFGS DAW , IOC](https://www.42barcelona.com/es/)**  
 *Completed - 165h*  
-omprehensive course focused on object-oriented programming principles using Java. Covered encapsulation, inheritance, polymorphism, and class design. All projects were developed using NetBeans.
+Comprehensive course focused on object-oriented programming principles using Java. Covered encapsulation, inheritance, polymorphism, and class design. All projects were developed using NetBeans.
 
 >Technologies  
 <p align="left">
@@ -59,7 +103,7 @@ omprehensive course focused on object-oriented programming principles using Java
 </p>
 
 ---
-#### 📚 Short Courses & Workshops
+### 📚 Short Courses & Workshops
 ---
 
 - **Python for Data Science – Udemy**, 10h  
@@ -68,28 +112,70 @@ omprehensive course focused on object-oriented programming principles using Java
 - **TypeScript for React – IT Academy (Workshop)**, 6h  
 
 ---
+# 💎 My Work
 
-⏳ *In the future, I want to become the best React developer in Spain (not sure if there's an official ranking though*  😂).
+### 🧩 Products
+---
 
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@crazypast) 
-<br>
-Take a look of my growing AI-generated channel. All the videos are fully made with ***generative AI.***
+#### 🚀 LazyFetch  - *Multi environment fetch library*
 
-## 💻 Main Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+📍 *In production — Updating*
 
-> **React Libraries:**  
-> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-> ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react) 
-> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-> ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-> ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF5C39.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+A lightweight JavaScript library that simplifies working with `fetch` requests. Designed to be intuitive and easily integrable.
+>🔗 [Web oficial](https://lazy-fetch.vercel.app/)  
+>
+>📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/LazyFetch)  
+>
+>
+>[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@LazyFetch) 
+
+
+
+
+
+---
+
+#### 📺 CrazyPast - *YouTube Channel IA-powered* 
+📍 *Growing - Working for full automation*
+
+A YouTube Shorts channel that explores historical curiosities for a broad audience. Currently semi-automated using AI tools, with ongoing work to fully streamline the content creation and publishing process.
+
+
+> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@crazypast) 
+
+
+
+---
+
+#### 🛒 Cuervo Blanco - *Experimental Clothing Brand*
+📍 *Live / Under Refinement*
+
+Experimental apparel brand featuring AI-generated designs. Launched through a print-on-demand platform with a consistent brand identity. Focused on testing creative and commercial potential.
+
+>🔗 [Visit Shop ](
+https://www.latostadora.com/shop/elcuervoblanco/?shop_trk)  
+
+
+---
+
+#### 📘 El lenguaje secreto de los ordenadores – *Children’s programming book*
+📍 *Creative incubation*
+
+Editorial idea for an interactive book featuring challenges and games designed to introduce children to programming logic. Currently in early ideation and handwritten prototyping.
+
+> 🎨 [Preview sketches](https://msg-developer.github.io/book-preview/)   
+> 📦  [GitHub repo & Colaborations](https://github.com/MSG-DEVELOPER/book-preview) 
+---
+
+#### 🎟️ SaaS: Ticketing System  
+📍 *In development*
+
+A SaaS application for managing technical support tickets, targeting micro-businesses and freelancers.  
+Front-end development led by me; back-end collaboration with my brother, a senior full-stack developer. Project in early planning phase.
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSG-DEVELOPER&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -108,4 +194,5 @@ Take a look of my growing AI-generated channel. All the videos are fully made wi
 🙏 **Thanks for reading the README all the way to the end.**  
 I’d love to schedule a meeting to take a technical test — even if you think I might not pass it.  
 For me, it would be a great opportunity to grow, prove myself, and meet passionate people in the industry.
+
 
