@@ -1,11 +1,21 @@
 # 👨‍💻 Something about Me
 Hi ! I'm Marcos , front-end developer, and last year discovered that programming is my **IKIGAY.** — the reason that gets me up in the morning.
-> More info about IKIGAI here https://management30.com/blog/japanese-ikigai/
+<details>
+  <summary>ℹ️ More about IKIGAI</summary>
+  <a href="https://management30.com/blog/japanese-ikigai/" target="_blank">
+    https://management30.com/blog/japanese-ikigai/
+  </a>
+</details>
 
-* Over **2,000** hours of training focused on front‑end technologies.  
-* Creator of a JavaScript library  ([`lazy-fetch`](https://lazy-fetch.vercel.app/)) and an AI-powered YouTube channel.  
-* Passionate about React and eager to dive deeper into **DevOps**, **AI**, and **low-level languages**.  
-* My goal? To become one of the most solid **React** developers in Spain.
+<div style="border:1px solid #4caf50; padding:16px; border-radius:6px; background:#f1f8e9; margin:16px 0;">
+  
+  <ul>
+    <li>Over <strong>2,000</strong> hours of training focused on front-end technologies.</li>
+    <li>Creator of a JavaScript library (<code>lazy-fetch</code>) , an AI-powered YouTube channel and more.</li>
+    <li>Passionate about React and eager to dive deeper into <strong>DevOps</strong>, <strong>AI</strong>, and <strong>low-level languages</strong>.</li>
+    <li>My goal? To become one of the most solid <strong>React</strong> developers in Spain.</li>
+  </ul>
+</div>
 
 ---
 ### 💻 Prefered Tech Stack:
@@ -29,8 +39,8 @@ Hi ! I'm Marcos , front-end developer, and last year discovered that programming
 - 🧠 Resilient, proactive, and curious learner  
 - 🤝 Strong communication and teamwork mindset  
 - 🔁 Comfortable with agile, remote work, and iteration  
-- 🇪🇸 Native Spanish and Catalan
-- 🇬🇧 English – B2 (reading/writing), B1 (speaking/listening) (EOI)
+- 💬 Native Spanish and Catalan
+- 💬 English – B2 (reading/writing), B1 (speaking/listening) (EOI)
 
 ---
 
@@ -114,15 +124,21 @@ Comprehensive course focused on object-oriented programming principles using Jav
 ---
 # 💎 My Work
 
-### 🧩 Products
+### 🧩 Products  
+
+✅ *Actual solutions live in the wild, with real users or business value.*
+
 ---
 
 
 #### 🚀 LazyFetch  - *Multi environment fetch library*
 
-📍 *In production — Updating*
+📍 *Live — Updating*
 
 A lightweight JavaScript library that simplifies working with `fetch` requests. Designed to be intuitive and easily integrable.
+
+
+
 >🔗 [Web oficial](https://lazy-fetch.vercel.app/)  
 >
 >📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/LazyFetch)  
@@ -137,7 +153,7 @@ A lightweight JavaScript library that simplifies working with `fetch` requests. 
 ---
 
 #### 📺 CrazyPast - *YouTube Channel IA-powered* 
-📍 *Growing - Working for full automation*
+📍 *Growing  —  Working for full automation*
 
 A YouTube Shorts channel that explores historical curiosities for a broad audience. Currently semi-automated using AI tools, with ongoing work to fully streamline the content creation and publishing process.
 
@@ -149,7 +165,7 @@ A YouTube Shorts channel that explores historical curiosities for a broad audien
 ---
 
 #### 🛒 Cuervo Blanco - *Experimental Clothing Brand*
-📍 *Live / Under Refinement*
+📍 *Live   —  Under Refinement*
 
 Experimental apparel brand featuring AI-generated designs. Launched through a print-on-demand platform with a consistent brand identity. Focused on testing creative and commercial potential.
 
@@ -164,7 +180,8 @@ https://www.latostadora.com/shop/elcuervoblanco/?shop_trk)
 
 Editorial idea for an interactive book featuring challenges and games designed to introduce children to programming logic. Currently in early ideation and handwritten prototyping.
 
-> 🎨 [Preview sketches](https://msg-developer.github.io/book-preview/)   
+> 🎨 [Preview sketches](https://msg-developer.github.io/book-preview/) 
+> 
 > 📦  [GitHub repo & Colaborations](https://github.com/MSG-DEVELOPER/book-preview) 
 ---
 
@@ -173,6 +190,53 @@ Editorial idea for an interactive book featuring challenges and games designed t
 
 A SaaS application for managing technical support tickets, targeting micro-businesses and freelancers.  
 Front-end development led by me; back-end collaboration with my brother, a senior full-stack developer. Project in early planning phase.
+
+---
+
+
+---
+
+### 🛠️ Projects
+
+
+
+ ✅ *Code-based demos and experiments to showcase specific skills.*
+
+ ---
+
+
+
+#### 📚 Technical Test: Organization Library App with <span style="color:#FFA500;font-weight:bold">React</span> and <span style="color:#FFA500;font-weight:bold">Local Storage</span>
+
+📍 *Live*
+
+* A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**.  
+* Focused on **state management**, **component composition**, **responsive design**, and **data persistence** with **Local Storage**.
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/175395389/475153086-f030c7e5-137d-4627-a491-978228dcda36.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1MDM5OTEsIm5iZiI6MTc1NDUwMzY5MSwicGF0aCI6Ii8xNzUzOTUzODkvNDc1MTUzMDg2LWYwMzBjN2U1LTEzN2QtNDYyNy1hNDkxLTk3ODIyOGRjZGEzNi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNlQxODA4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YjdlNTU5MzFkNDM5N2MyYTRhOTVjZTllNzg2YWJjMTU1ZjdiYjg5YWNlYmY1ZDhjNDQ0OWYyM2VmMTg4MDAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Hp_8w_cizg0GV1gugyUutp1k3SwC8ZLhxFh6OlbLudc" width="260" />
+  <img src="https://private-user-images.githubusercontent.com/175395389/475153113-dee92d9e-6735-4e36-8089-30376366603e.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1MDM5OTEsIm5iZiI6MTc1NDUwMzY5MSwicGF0aCI6Ii8xNzUzOTUzODkvNDc1MTUzMTEzLWRlZTkyZDllLTY3MzUtNGUzNi04MDg5LTMwMzc2MzY2NjAzZS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNlQxODA4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMDY5ZTBlYzAwZDExZWJlMWIxYTg3NTMwZTQ3ZjNlOThiZGE0MjVhZGFjMzBiNjhjZTM1ODAxOWM5NDVmNTkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BDL2GXpwwLT9Wu9bFsSuuCWv4xKPQZrEo2VvlADgdbk" width="260" />
+  <img src="https://private-user-images.githubusercontent.com/175395389/475153150-77f150ad-61c6-4c42-b9f6-7b3af5fd1080.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1MDM5OTEsIm5iZiI6MTc1NDUwMzY5MSwicGF0aCI6Ii8xNzUzOTUzODkvNDc1MTUzMTUwLTc3ZjE1MGFkLTYxYzYtNGM0Mi1iOWY2LTdiM2FmNWZkMTA4MC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNlQxODA4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYmM0MjBhZjZjM2IwYjM2NjkwYzQ5NTI0N2RhMjdmNzQ3ZjIwMDU1YTk1MGE1OWVmOWFiNTc1MDgyY2FmZjEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0FyrJ-xB5Q_ubdi6rNr4UIp3W5oaKxLVtl9-qkdxuwo" width="260" />
+</p>
+
+
+> 🔗 [Live Demo](https://techtest-library-lb54510nl-msg-devs-projects.vercel.app/)  
+>
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/TechnicalTest-Library)
+>  
+> 🛠️ **Main Tech:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,styledcomponents" />
+</p>
+
+
+
+ ---
+
+ 
+
+ 
+
 
 
 
@@ -194,5 +258,6 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 🙏 **Thanks for reading the README all the way to the end.**  
 I’d love to schedule a meeting to take a technical test — even if you think I might not pass it.  
 For me, it would be a great opportunity to grow, prove myself, and meet passionate people in the industry.
+
 
 
