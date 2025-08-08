@@ -200,18 +200,24 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
 
 
- ✅ *Code-based demos and experiments to showcase specific skills.*
+ ✅ *Code-based demos and experiments to showcase specific skills. All them are deployed in Vercel.*
 
  ---
 
 
 
-#### 📚 Technical Test: Organization Library App with <span style="color:#FFA500;font-weight:bold">React</span> and <span style="color:#FFA500;font-weight:bold">Local Storage</span>
+#### 📚 Technical Test: Organization Library App with  *`React`* and *`Local Storage`*
 
-📍 *Live*
 
-* A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**.  
-* Focused on **state management**, **component composition**, **responsive design**, and **data persistence** with **Local Storage**.
+
+ *A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**.* 
+<details>
+<summary>✨ Key Learnings & Focus Areas</summary>
+
+
+ Focused on **state management**,  **responsive design**, and **data persistence** with **Local Storage**.
+</details>
+
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/175395389/475153086-f030c7e5-137d-4627-a491-978228dcda36.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ1MDM5OTEsIm5iZiI6MTc1NDUwMzY5MSwicGF0aCI6Ii8xNzUzOTUzODkvNDc1MTUzMDg2LWYwMzBjN2U1LTEzN2QtNDYyNy1hNDkxLTk3ODIyOGRjZGEzNi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwNlQxODA4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YjdlNTU5MzFkNDM5N2MyYTRhOTVjZTllNzg2YWJjMTU1ZjdiYjg5YWNlYmY1ZDhjNDQ0OWYyM2VmMTg4MDAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Hp_8w_cizg0GV1gugyUutp1k3SwC8ZLhxFh6OlbLudc" width="260" />
@@ -232,14 +238,38 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
 
  ---
+#### 📺 MovieZone: React App with Firebase Authentication and TMDb API fetch  
+
+
+ *A movie gallery app built with **React** that *fetches* real data from TMDb.*
+
+<details>
+<summary>✨ Key Learnings & Focus Areas</summary>
+
+ Uses **Firebase Authentication** and **React Hook Form** for user login.  
+Route protection and authentication flow managed with **React Router** and **Redux**.  
+Focused on **Redux** state management and **styled-components** for custom design.
+
+</details>
+
+> 🔗 [Live Demo](https://fetch-api-tmdb.vercel.app/)  
+>  
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S7-REACT-API)  
+>  
+> 🛠️ **Main Tech:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,firebase" />
+</p>
+
+---
+
+
 
  
 
- 
 
 
-
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSG-DEVELOPER&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -258,6 +288,4 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 🙏 **Thanks for reading the README all the way to the end.**  
 I’d love to schedule a meeting to take a technical test — even if you think I might not pass it.  
 For me, it would be a great opportunity to grow, prove myself, and meet passionate people in the industry.
-
-
 
