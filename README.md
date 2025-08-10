@@ -212,20 +212,21 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
  *A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**.* 
 
-
-
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36">
-    <img src="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36" width="260" />
+    <img src="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36" width="560" style="margin-bottom:150px; border: 10px solid #ccc; border-radius: 6px;" />
   </a>
   <a href="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e">
-    <img src="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e" width="260" />
+    <img src="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
   </a>
   <a href="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080">
-    <img src="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080" width="260" />
+    <img src="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
   </a>
 </p>
+
+
+
+
 
 <details>
 <summary>✨ Key Learnings & Focus Areas</summary>
