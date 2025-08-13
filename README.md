@@ -255,6 +255,19 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
  *A movie gallery app built with **React** that *fetches* real data from TMDb.*
 
+ <p align="center">
+  <a href="https://github.com/user-attachments/assets/d185ebbd-74d4-47cb-abf1-20d2f86bc569">
+    <img src="https://github.com/user-attachments/assets/d185ebbd-74d4-47cb-abf1-20d2f86bc569" width="560" >
+  </a>
+  <a href="https://github.com/user-attachments/assets/7b5f8a4b-d8c6-4823-b616-d7cf6fa1d430">
+    <img src="https://github.com/user-attachments/assets/7b5f8a4b-d8c6-4823-b616-d7cf6fa1d430" width="560" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/24bb333e-e73c-429f-a354-796b13f0664f">
+    <img src="https://github.com/user-attachments/assets/24bb333e-e73c-429f-a354-796b13f0664f" width="560"  />
+  </a>
+</p>
+
+
 <details>
 <summary>✨ Key Learnings & Focus Areas</summary>
 
