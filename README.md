@@ -214,12 +214,12 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36">
-    <img src="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36" width="560" style="margin-bottom:150px; border: 10px solid #ccc; border-radius: 6px;" />
+    <img src="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36" width="560" >
   </a>
   <a href="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e">
-    <img src="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
+    <img src="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e" width="560" />
   </a>
-  <a href="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080">
+   <a href="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080">
     <img src="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
   </a>
 </p>
@@ -283,14 +283,46 @@ Focused on **Redux** state management and **styled-components** for custom desig
 >  
 > 🛠️ **Main Tech:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,styledcomponents" />
 </p>
 
 ---
+#### 🧮 Web Budget Calculator: React App for Interactive Budget Management  
 
+*A web service budget calculator built with **React** that allows users to create and save multiple budgets per client.*
 
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/3656fd4e-88d1-4ee3-b5c7-d65e36c3ad97">
+    <img src="https://github.com/user-attachments/assets/3656fd4e-88d1-4ee3-b5c7-d65e36c3ad97" width="560" >
+  </a>
+  <a href="https://github.com/user-attachments/assets/c5de5499-a810-4faa-b7ee-9ef981aa8e01">
+    <img src="https://github.com/user-attachments/assets/c5de5499-a810-4faa-b7ee-9ef981aa8e01" width="560" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/c4ed1f11-f713-49cd-9b27-cee3d513f771">
+    <img src="https://github.com/user-attachments/assets/c4ed1f11-f713-49cd-9b27-cee3d513f771" width="560"  />
+  </a>
+</p>
 
- 
+<details>
+<summary>✨ Key Learnings & Focus Areas</summary>
+
+Uses **React** fundamentals and **TypeScript** for type-safe development.  
+State management handled with **Context API**.  
+Component modularity and reusable design patterns.  
+Professional styling using **styled-components**.
+
+</details>
+
+> 🔗 [Live Demo](https://budget-ivory-five.vercel.app/)  
+>  
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S6-REACT_EXTENSION_BASIC)  
+>  
+> 🛠️ **Main Tech:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,styledcomponents" /> 
+   <img src="https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react" />
+</p>
+
 
 
 
@@ -313,4 +345,3 @@ Focused on **Redux** state management and **styled-components** for custom desig
 🙏 **Thanks for reading the README all the way to the end.**  
 I’d love to schedule a meeting to take a technical test — even if you think I might not pass it.  
 For me, it would be a great opportunity to grow, prove myself, and meet passionate people in the industry.
-
