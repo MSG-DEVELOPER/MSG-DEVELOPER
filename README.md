@@ -204,13 +204,9 @@ Front-end development led by me; back-end collaboration with my brother, a senio
 
  ---
 
+#### 📚 Technical Test: Organization Library App with *`React`* and *`Local Storage`*
 
-
-#### 📚 Technical Test: Organization Library App with  *`React`* and *`Local Storage`*
-
-
-
- *A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**.* 
+*A technical test proposed by [midudev](https://midu.dev/) to build a library application interface using **React**. Focused on **state management**, **responsive design**, and **data persistence** with **Local Storage**.*
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/f030c7e5-137d-4627-a491-978228dcda36">
@@ -219,43 +215,32 @@ Front-end development led by me; back-end collaboration with my brother, a senio
   <a href="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e">
     <img src="https://github.com/user-attachments/assets/dee92d9e-6735-4e36-8089-30376366603e" width="560" />
   </a>
-   <a href="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080">
+  <a href="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080">
     <img src="https://github.com/user-attachments/assets/77f150ad-61c6-4c42-b9f6-7b3af5fd1080" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
   </a>
 </p>
 
-
-
-
-
-<details>
-<summary>✨ Key Learnings & Focus Areas</summary>
-
-
- Focused on **state management**,  **responsive design**, and **data persistence** with **Local Storage**.
-</details>
-
-
-
-
 > 🔗 [Live Demo](https://techtest-library-lb54510nl-msg-devs-projects.vercel.app/)  
->
-> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/TechnicalTest-Library)
->  
-> 🛠️ **Main Tech:**  
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/TechnicalTest-Library)  
+> 🛠️ Main Tech: 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,styledcomponents" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+
 </p>
 
 
 
+
+
  ---
-#### 📺 MovieZone: React App with Firebase Authentication and TMDb API fetch  
+#### 📺 MovieZone: React App with Firebase Authentication and TMDb API fetch
 
+*A movie gallery app built with **React** that *fetches* real data from TMDb.  **Firebase Authentication** and **React Hook Form** for user login, **React Router** + **Redux** for route protection and state management, and **styled-components** for custom design.*
 
- *A movie gallery app built with **React** that *fetches* real data from TMDb.*
-
- <p align="center">
+<p align="center">
   <a href="https://github.com/user-attachments/assets/d185ebbd-74d4-47cb-abf1-20d2f86bc569">
     <img src="https://github.com/user-attachments/assets/d185ebbd-74d4-47cb-abf1-20d2f86bc569" width="560" >
   </a>
@@ -263,33 +248,29 @@ Front-end development led by me; back-end collaboration with my brother, a senio
     <img src="https://github.com/user-attachments/assets/7b5f8a4b-d8c6-4823-b616-d7cf6fa1d430" width="560" />
   </a>
   <a href="https://github.com/user-attachments/assets/24bb333e-e73c-429f-a354-796b13f0664f">
-    <img src="https://github.com/user-attachments/assets/24bb333e-e73c-429f-a354-796b13f0664f" width="560"  />
+    <img src="https://github.com/user-attachments/assets/24bb333e-e73c-429f-a354-796b13f0664f" width="560" style="margin-bottom:15px; border: 1px solid #ccc; border-radius: 6px;" />
   </a>
 </p>
 
-
-<details>
-<summary>✨ Key Learnings & Focus Areas</summary>
-
- Uses **Firebase Authentication** and **React Hook Form** for user login.  
-Route protection and authentication flow managed with **React Router** and **Redux**.  
-Focused on **Redux** state management and **styled-components** for custom design.
-
-</details>
-
 > 🔗 [Live Demo](https://fetch-api-tmdb.vercel.app/)  
->  
 > 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S7-REACT-API)  
->  
-> 🛠️ **Main Tech:**  
+> 🛠️ Main Tech: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,styledcomponents" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+ ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF5C39.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+
 </p>
 
 ---
 #### 🧮 Web Budget Calculator: React App for Interactive Budget Management  
 
-*A web service budget calculator built with **React** that allows users to create and save multiple budgets per client.*
+*A web service budget calculator built with **React** , **Context-API** and **React Router** that allows users to create and save multiple budgets per client.*
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3656fd4e-88d1-4ee3-b5c7-d65e36c3ad97">
@@ -303,26 +284,78 @@ Focused on **Redux** state management and **styled-components** for custom desig
   </a>
 </p>
 
-<details>
-<summary>✨ Key Learnings & Focus Areas</summary>
 
-Uses **React** fundamentals and **TypeScript** for type-safe development.  
-State management handled with **Context API**.  
-Component modularity and reusable design patterns.  
-Professional styling using **styled-components**.
-
-</details>
 
 > 🔗 [Live Demo](https://budget-ivory-five.vercel.app/)  
->  
 > 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S6-REACT_EXTENSION_BASIC)  
->  
-> 🛠️ **Main Tech:**  
+> 🛠️ Main Tech:  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,styledcomponents" /> 
+
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
    <img src="https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react" />
+   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 </p>
 
+
+
+
+---
+
+#### 🖥️ IT Academy Landing Page Replica: React + TypeScript  
+
+*A responsive landing page replica built with **React** using **TypeScript**, styled with **CSS Modules**, and structured following **Atomic Design** principles.*  
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d13a0331-bbc0-409b-8b47-9dc27975a82f">
+    <img src="https://github.com/user-attachments/assets/d13a0331-bbc0-409b-8b47-9dc27975a82f" width="560">
+  </a>
+  <a href="https://github.com/user-attachments/assets/de82b02f-959e-435a-8326-9ba37aedcf24">
+    <img src="https://github.com/user-attachments/assets/de82b02f-959e-435a-8326-9ba37aedcf24" width="560">
+  </a>
+  <a href="https://github.com/user-attachments/assets/d8a9b69e-fa7c-47ca-88af-e01d127b499d">
+    <img src="https://github.com/user-attachments/assets/d8a9b69e-fa7c-47ca-88af-e01d127b499d" width="560">
+  </a>
+</p>
+
+> 🔗 [Live Demo](https://itacademy-s5-react-basic.vercel.app/)  
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S5-REACT_BASIC)  
+> 🛠️ Tech Stack  
+<p align="left">
+
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+
+---
+#### 🛒 E-Commerce: Shopping Cart Logic + Checkout Flow  
+
+*An e-commerce project where the base layout was provided with **Bootstrap**, and I implemented the **cart logic** (add, remove, promotions, ES6 features) along with the **checkout system** for completing purchases.*  
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f4aec18e-1c8a-4809-8371-e5e01c9b98f3">
+    <img src="https://github.com/user-attachments/assets/f4aec18e-1c8a-4809-8371-e5e01c9b98f3" width="560">
+  </a>
+  <a href="https://github.com/user-attachments/assets/b5bb2b8d-9ccb-4cb6-be5c-2e23d30e5f78">
+    <img src="https://github.com/user-attachments/assets/b5bb2b8d-9ccb-4cb6-be5c-2e23d30e5f78" width="560">
+  </a>
+  <a href="https://github.com/user-attachments/assets/a4c9f506-0ec3-41c8-848b-19db57fa878b">
+    <img src="https://github.com/user-attachments/assets/a4c9f506-0ec3-41c8-848b-19db57fa878b" width="560">
+  </a>
+</p>
+
+> 🔗 [Live Demo](https://ecommerce-five-hazel.vercel.app/)  
+> 📦 [GitHub Repo](https://github.com/MSG-DEVELOPER/ITACADEMY-S2.2-ECOMMERCE)  
+> 🛠️ Tech Stack  
+<p align="left">
+
+![JavaScript ES6](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+</p>
 
 
 
