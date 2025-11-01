@@ -49,9 +49,9 @@ Hi ! I'm Marcos , front-end developer, and last year discovered that programming
 Feel free to reach out:
 
 📧 **msgdevelopermsg@gmail.com**  
-🌐 [yourportfolio.dev](https://yourportfolio.dev)
+🌐 [yourportfolio.dev](https://portfolio-eng-two.vercel.app/index.html)
 
-_(You'll find this contact info again at the bottom 😉)_
+
 
 ---
 
